@@ -1,1 +1,0 @@
-# nitc_events
